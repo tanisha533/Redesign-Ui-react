@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Redesign-Ui-react/static/css/main.ff02f4b5.css",
+    "main.js": "/Redesign-Ui-react/static/js/main.904129ca.js",
+    "static/js/453.6199b26b.chunk.js": "/Redesign-Ui-react/static/js/453.6199b26b.chunk.js",
+    "index.html": "/Redesign-Ui-react/index.html",
+    "main.ff02f4b5.css.map": "/Redesign-Ui-react/static/css/main.ff02f4b5.css.map",
+    "main.904129ca.js.map": "/Redesign-Ui-react/static/js/main.904129ca.js.map",
+    "453.6199b26b.chunk.js.map": "/Redesign-Ui-react/static/js/453.6199b26b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ff02f4b5.css",
+    "static/js/main.904129ca.js"
+  ]
+}
