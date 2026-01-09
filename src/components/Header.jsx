@@ -140,7 +140,7 @@ export default function Appointment() {
             <div className="left-top">
               <a href="#" className="appointment-btn" onClick={openModal}>
                 <i className="fa fa-calendar-check-o" style={{ color: '#E57373', backgroundColor: 'white' }} aria-hidden="true"></i>
-                <span>Book Appointment</span>
+                <span>Book Appointment Now</span>
               </a>
             </div>
           </div>
