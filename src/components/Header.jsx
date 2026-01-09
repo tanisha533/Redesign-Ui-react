@@ -55,7 +55,7 @@ const AppointmentModal = ({ isOpen, onRequestClose }) => {
       <button className="close-button" style={customModalStyles.closeButton} onClick={onRequestClose}>
         &times;
       </button>
-      <h2>Book Appointment</h2>
+      <h2>Book Appointment🔥🔥</h2>
       <form onSubmit={handleSubmit}>
         <div className="form-group">
           <label htmlFor="name">Name </label>
@@ -140,7 +140,7 @@ export default function Appointment() {
             <div className="left-top">
               <a href="#" className="appointment-btn" onClick={openModal}>
                 <i className="fa fa-calendar-check-o" style={{ color: '#E57373', backgroundColor: 'white' }} aria-hidden="true"></i>
-                <span>Book Appointment Now</span>
+                <span>Book Appointment🔥 Now</span>
               </a>
             </div>
           </div>
@@ -181,11 +181,11 @@ export default function Appointment() {
 //   <div className="container-fluid h-20">
 //     <img src='images/logo.png' className="img-fluid" alt="Logo" style={{ height: "50px" }}></img>
 //     <form className="d-flex" role="search">
-//       <button className="btn btn-outline-custom me-2" style={{ borderColor: 'rgb(229, 115, 115)', color: 'rgb(229, 115, 115)' }}>Book Appointment</button>
+//       <button className="btn btn-outline-custom me-2" style={{ borderColor: 'rgb(229, 115, 115)', color: 'rgb(229, 115, 115)' }}>Book Appointment🔥</button>
 //       <i className="fa fa-calendar-check-o" style={{ color: '#E57373', backgroundColor: 'white' }} aria-hidden="true"></i>
 
-//       <button className="btn btn-outline-custom me-2" style={{ borderColor: 'rgb(229, 115, 115)', color: 'rgb(229, 115, 115)' }}>Book Appointment</button>
-//       <button className="btn btn-outline-custom me-2" style={{ borderColor: 'rgb(229, 115, 115)', color: 'rgb(229, 115, 115)' }}>Book Appointment</button>
+//       <button className="btn btn-outline-custom me-2" style={{ borderColor: 'rgb(229, 115, 115)', color: 'rgb(229, 115, 115)' }}>Book Appointment🔥</button>
+//       <button className="btn btn-outline-custom me-2" style={{ borderColor: 'rgb(229, 115, 115)', color: 'rgb(229, 115, 115)' }}>Book Appointment🔥</button>
 //     </form>
 //   </div>
 // </nav>
