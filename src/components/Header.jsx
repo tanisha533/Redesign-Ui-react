@@ -55,7 +55,7 @@ const AppointmentModal = ({ isOpen, onRequestClose }) => {
       <button className="close-button" style={customModalStyles.closeButton} onClick={onRequestClose}>
         &times;
       </button>
-      <h2>Book Appointment🔥🔥</h2>
+      <h2>Book Appointment🔥🔥🔥🔥</h2>
       <form onSubmit={handleSubmit}>
         <div className="form-group">
           <label htmlFor="name">Name </label>
